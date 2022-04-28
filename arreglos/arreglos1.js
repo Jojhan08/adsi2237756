@@ -1,1 +1,1 @@
-console.log("trabajo con arreglos")
+console.log("trabajo con /n arreglos") 
